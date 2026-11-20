@@ -1,0 +1,3 @@
+adicionar o campo marca e o campo  descrição ao cadastro de produto.
+- fazer um novo formulário de busca por nome, de forma que o resultado agora possa trazer vários produtos
+- exibir os produtos em uma tabela
